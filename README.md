@@ -17,19 +17,19 @@ Step 1.
 Step 2. 
 - Set the path to the dataset and resnet parameters in the code.
 
-Step 3. Train the fc layer only. It gives 78.51% test set accuracy.
+Step 3. Train the fc layer only.
 - python train_firststep.py
 
 
     	
 
 
-Step 4. Fine-tune all layers. It gets an accuracy of around 86% on CUB-200-2011.
+Step 4. Fine-tune all layers. It gets an accuracy of around 86% on CUB-200-2011 when using resnet-34 or resnet-50.
 - python train_finetune.py
 
 
 
-##### If you are interested in this code, you can continue to fine-tune the model structure, and try more resnet models, you should get better results.
+##### If you are interested in this code, you can continue to adjust the model structure, and try more resnet models, you should get better results.
 
 
 ##### Official Caffe implementation of Hierarchical Bilinear Pooling for Fine-Grained Visual Recognition is [HERE](https://github.com/ChaojianYu/Hierarchical-Bilinear-Pooling)
