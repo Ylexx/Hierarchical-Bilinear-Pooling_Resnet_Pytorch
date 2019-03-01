@@ -1,6 +1,13 @@
 # Hierarchical-Bilinear-Pooling_Resnet_pytorch
- A reimplementation of Hierarchical Bilinear Pooling for Fine-Grained Visual Recognition in Resnet.
+
 [![](https://img.shields.io/badge/HBP-Model-green.svg)](https://github.com/Ylexx/Hierarchical-Bilinear-Pooling_Resnet_pytorch)
+
+ A reimplementation of Hierarchical Bilinear Pooling for Fine-Grained Visual Recognition in Resnet.
+ 
+ 
+
+
+
 ## Requirements
 - python 2.7
 - pytorch 0.4.1
