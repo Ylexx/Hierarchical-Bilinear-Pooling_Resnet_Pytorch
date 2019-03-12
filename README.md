@@ -1,4 +1,4 @@
-# Hierarchical-Bilinear-Pooling_Resnet_pytorch
+# Hierarchical-Bilinear-Pooling_Resnet_Pytorch
 
 [![](https://img.shields.io/badge/HBP-Model-green.svg)](https://github.com/Ylexx/Hierarchical-Bilinear-Pooling_Resnet_pytorch)
 
