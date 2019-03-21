@@ -30,7 +30,7 @@ Step 3. Train the fc layer only.
     	
 
 
-Step 4. Fine-tune all layers. It gets an accuracy of around 86% on CUB-200-2011 when using resnet-34 or resnet-50.
+Step 4. Fine-tune all layers. It gets an accuracy of around 86% on CUB-200-2011 when using resnet-50.
 - python train_finetune.py
 
 
